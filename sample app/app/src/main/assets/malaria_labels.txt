@@ -1,0 +1,3 @@
+parasitized
+uninfected
+background
