@@ -1,0 +1,4 @@
+background
+hemoglobin a
+hemoglobin c
+hemoglobin s

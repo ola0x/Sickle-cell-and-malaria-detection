@@ -59,13 +59,13 @@ public class ModelSickleCell extends Classifier {
     // see build.gradle for where to obtain this file. It should be auto
     // downloaded into assets.
     //return "model.tflite";
-    return "skin_cancer_model_m1.0_v2.0.lite";
+    return "sickle_model.lite";
   }
 
 
   @Override
   protected String getLabelPath() {
-    return "retrained_labels.txt";
+    return "sickle_labels.txt";
   }
 
   @Override
