@@ -1,11 +1,11 @@
 # AndroidDevChallenge
-![Image of AndroiddevChallenge] (https://github.com/Olaislord/Sickle-cell-and-malaria-detection/blob/master/assets/androidDevChallenge.png)
+![Image of AndroiddevChallenge](https://github.com/Olaislord/Sickle-cell-and-malaria-detection/blob/master/assets/androidDevChallenge.png)
 ### Android Application for the Detection of Malaria and Sickle cell disease
 
 **Tell us what your idea is.** 
 <br/>
 
-*The idea is to build a machine learning model using TensorFlow lite in an android app to detect sickle cell and malaria in the blood sample of patients. 
+* The idea is to build a machine learning model using TensorFlow lite in an android app to detect sickle cell and malaria in the blood sample of patients. 
 I want to help reduce the time it takes to detect these diseases with high accuracy leveraging on the power of on device machine learning.<br/>
 Currently, to diagnose sickle cell disease, blood samples are sent to a diagnosing laboratory for testing to detect abnormal and parasitized cell, then, the test result is sent back to the health center.
 My focus is to bring about real time detection of sickle cell and malaria disease in the blood sample of patients right there in the health center. <br/>
@@ -24,7 +24,7 @@ The idea is unique because this model will be installed in an android app and ca
 **Currently** I have completed my proof of concept using a smaller popular dataset from the National library of medicine (malaria) and the American Society of Hematology (sickle cell), the dataset was trained with TensorFlow for poet’s code-labs.
 To demonstrate my idea for image classification I created a demo app for the trained model.
 I have read several research papers and have contacted research institutes for their dataset— <br/>
-##Research Institute contacted
+### Research Institute contacted
 * NIH 
 * Orphanet
 * American Sickle Cell Anemia Association
@@ -72,19 +72,17 @@ I have read several research papers and have contacted research institutes for t
 * i.	Release open beta application version
 * ii.	Get feedbacks from people and the medical practitioners and implement feature request and fixes. <br/> <br/>
 **May 2020:**
-* Showcase my idea to the world.
-<br/>
-**Future Project** <br/>
-* Would work on Object Detection counting using Tensorflow object counting for counuting blood cell. Anemia is the shortage of red blood cell which could be due to sickle cell, so by way of counting the red blood cell we can diagnose anemia due to low red blood cell count.
+* Showcase my idea to the world.<br/>
 
-**Tell us about you.** 
+**Future Project** 
+* Would work on Object Detection counting using Tensorflow object counting for counuting blood cell. Anemia is the shortage of red blood cell which could be due to sickle cell, so by way of counting the red blood cell we can diagnose anemia due to low red blood cell count. <br/> 
 
+**Tell us about you** <br/>
 Hello, <br/>
-My name is Olaonipekun Olanrewaju. I am an undergraduate student of Physics at Lagos State University, Lagos state, Nigeria and currently in my 2nd (penultimate) year in the university.  <br/>
+My name is Olaonipekun Olanrewaju. I am an undergraduate student of Physics at Lagos State University, Lagos state, Nigeria and currently in my 2nd (penultimate) year in the university.<br/>
 I am passionate about learning new things. I started building machine learning models by watching YouTube videos, the next step was learning from blogs post (TensorFlow) documentation are self-explanatory, then I learnt about Neural networks, and all these were from the internet. <br/>
 I have used TensorFlow for poets to train my machine learning model.
 I want to solve real world problems and make the solutions available to all. Keeping this in mind I would like to open source the project for the community.<br/>
-
 I have worked on skin cancer image classification and built an android app for it
 GitHub link: https://github.com/Olaislord/Skin-Cancer-Image-Classification-Android
 
