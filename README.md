@@ -79,7 +79,7 @@ I have read several research papers and have contacted research institutes for t
 
 **Tell us about you** <br/>
 Hello, <br/>
-My name is Olaonipekun Olanrewaju. I am an undergraduate student of Physics at Lagos State University, Lagos state, Nigeria and currently in my 2nd (penultimate) year in the university.<br/>
+My name is Olaonipekun Olanrewaju. I am an undergraduate student of Physics at Lagos State University, Lagos state, Nigeria and currently in my 2nd (sophomore) year in the university.<br/>
 I am passionate about learning new things. I started building machine learning models by watching YouTube videos, the next step was learning from blogs post (TensorFlow) documentation are self-explanatory, then I learnt about Neural networks, and all these were from the internet. <br/>
 I have used TensorFlow for poets to train my machine learning model.
 I want to solve real world problems and make the solutions available to all. Keeping this in mind I would like to open source the project for the community.<br/>
